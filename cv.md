@@ -9,7 +9,7 @@
 
 ## Short description
 
-My purpose is to become the developer. I am going to learn how to make web applications good functioning and enjoyable to use. As you could notice, some companies and organizations don't have their web resources that good as they are in their businesses. This is what makes their customers (and also me) inconvenient and waste the kind of experience of easy and stylish using something.
+My purpose is to become the developer. I am going to learn how to make web applications good functioning and enjoyable to use. As you **could** notice, some companies and organizations don't have their web resources that good as they are in their businesses. This is what makes their customers (and also me) inconvenient and waste the kind of experience of easy and stylish using something.
 
 ## Skills
 
